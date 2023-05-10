@@ -1,16 +1,20 @@
-# jappa
+# Jappa
 
-A new Flutter project.
+Jappa is a simple travel app built using Flutter and cubit as the state management library. The app is a side project for my portfolio and is still under development.
+
+## Features
+
+The app currently has the following features:
+
+- View a list of popular travel destinations.
+- View the details of a selected travel destination.
+- Book a trip to the selected travel destination.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app, you need to have Flutter installed on your machine. Once you have Flutter installed, clone the repository and run the following command in the project directory: flutter run
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contributions are welcome. If you would like to contribute to the project, feel free to fork the repository and submit a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
